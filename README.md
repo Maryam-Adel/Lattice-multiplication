@@ -92,3 +92,4 @@ The solution is implemented in java
  
 # Author
 © 2016 Maryam Alaqel
+maa250@pitt.edu
